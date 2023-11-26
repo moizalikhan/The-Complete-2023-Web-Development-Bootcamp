@@ -48,5 +48,12 @@
       * https://fonts.google.com/
     * Text Align:
       * text-align: center,left, right, start(text start), end(text end)
+    
+* Css Inspection:
+  * On Chrome developer tools
 
+* Css Box Model:
+  * height, width, border: thickness style color, border-top, border-width: top right bottom left, padding, margin,
+  * <div></div> for container
+  * why cascade? --> 
 
