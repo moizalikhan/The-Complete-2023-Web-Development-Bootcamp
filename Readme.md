@@ -55,5 +55,23 @@
 * Css Box Model:
   * height, width, border: thickness style color, border-top, border-width: top right bottom left, padding, margin,
   * <div></div> for container
-  * why cascade? --> 
 
+* Priority of styles:
+  * Position: at last one
+  * Specificity (from top to bottom Priority)
+    * element selector
+    * class selector
+    * attribute selector
+    * id selector
+  * Type
+    * external css
+    * internal css
+    * inline css
+  * Importance
+
+* Css selectors
+  * group the selectors
+  * parent > child(direct child)
+  * css selector Decender selector
+  * Chaining selector --> elementS.ClassS#idS
+* we can combine all the techniques
