@@ -75,3 +75,9 @@
   * css selector Decender selector
   * Chaining selector --> elementS.ClassS#idS
 * we can combine all the techniques
+
+* Positioning:
+  * Static
+  * Relative
+  * Absolute--> zindex
+  * Fixed
